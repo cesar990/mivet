@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mivet.Common", "mivet.Common\mivet.Common.csproj", "{7D49A0E2-574C-4D99-839D-81DC2A3F94A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mivet.web", "mivet.web\mivet.web.csproj", "{B67F4170-D3E2-4A10-9A8F-BD243BEEFFF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D49A0E2-574C-4D99-839D-81DC2A3F94A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D49A0E2-574C-4D99-839D-81DC2A3F94A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D49A0E2-574C-4D99-839D-81DC2A3F94A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D49A0E2-574C-4D99-839D-81DC2A3F94A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B67F4170-D3E2-4A10-9A8F-BD243BEEFFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67F4170-D3E2-4A10-9A8F-BD243BEEFFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67F4170-D3E2-4A10-9A8F-BD243BEEFFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67F4170-D3E2-4A10-9A8F-BD243BEEFFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C910DC1D-7D6A-43BE-A996-5837EDA1A7FA}
+	EndGlobalSection
+EndGlobal
